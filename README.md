@@ -1,0 +1,1 @@
+Built breast cancer classification models (Logistic, SVM, Random Forest) on the Wisconsin dataset using Stratified K-Fold cross-validation to address class imbalance, capturing complex nonlinear relationships in tumor features.
